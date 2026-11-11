@@ -1,0 +1,1 @@
+"use client";import SecondaryListPage from "@/components/SecondaryListPage";export default function Page(){return <SecondaryListPage section="IDEAS" title="Ideas" description="Capture an idea before it disappears" placeholder="Capture an idea before it disappears"/>}

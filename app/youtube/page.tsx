@@ -1,0 +1,1 @@
+"use client";import SecondaryListPage from "@/components/SecondaryListPage";export default function Page(){return <SecondaryListPage section="YOUTUBE" title="YouTube" description="Save a useful video or playlist reference" placeholder="Save a useful video or playlist reference"/>}

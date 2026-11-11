@@ -1,0 +1,1 @@
+"use client";import SecondaryListPage from "@/components/SecondaryListPage";export default function Page(){return <SecondaryListPage section="BOOKS" title="Books" description="Save a book, takeaway or reading note" placeholder="Save a book, takeaway or reading note"/>}

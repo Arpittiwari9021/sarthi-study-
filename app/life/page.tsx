@@ -1,0 +1,1 @@
+"use client";import SecondaryListPage from "@/components/SecondaryListPage";export default function Page(){return <SecondaryListPage section="LIFE" title="Life" description="Capture a life item that matters to you" placeholder="Capture a life item that matters to you"/>}

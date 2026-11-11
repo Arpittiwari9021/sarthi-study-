@@ -1,0 +1,1 @@
+"use client";import SecondaryListPage from "@/components/SecondaryListPage";export default function Page(){return <SecondaryListPage section="BUCKET LIST" title="Bucket List" description="Capture something you want to experience or build" placeholder="Capture something you want to experience or build"/>}

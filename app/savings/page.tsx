@@ -1,0 +1,1 @@
+"use client";import SecondaryListPage from "@/components/SecondaryListPage";export default function Page(){return <SecondaryListPage section="SAVINGS" title="Savings" description="Record a saving goal or money note" placeholder="Record a saving goal or money note"/>}

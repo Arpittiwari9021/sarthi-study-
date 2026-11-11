@@ -1,0 +1,1 @@
+"use client";import SecondaryListPage from "@/components/SecondaryListPage";export default function Page(){return <SecondaryListPage section="DON'T DO" title="Don't Do" description="Record a distraction or behaviour to avoid" placeholder="Record a distraction or behaviour to avoid"/>}

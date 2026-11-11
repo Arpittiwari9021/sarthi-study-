@@ -1,0 +1,1 @@
+"use client";import SecondaryListPage from "@/components/SecondaryListPage";export default function Page(){return <SecondaryListPage section="ACHIEVEMENTS" title="Achievements" description="Record milestones you actually earned" placeholder="Record milestones you actually earned"/>}

@@ -1,0 +1,1 @@
+"use client";import SecondaryListPage from "@/components/SecondaryListPage";export default function Page(){return <SecondaryListPage section="REFLECT" title="Journal" description="Write what you want Sarthi to remember" placeholder="Write what you want Sarthi to remember"/>}

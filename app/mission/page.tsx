@@ -1,0 +1,1 @@
+"use client";import SecondaryListPage from "@/components/SecondaryListPage";export default function Page(){return <SecondaryListPage section="MISSION" title="Mission" description="Define a direction or outcome" placeholder="Define a direction or outcome"/>}

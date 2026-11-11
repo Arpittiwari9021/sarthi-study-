@@ -1,0 +1,1 @@
+"use client";import SecondaryListPage from "@/components/SecondaryListPage";export default function Page(){return <SecondaryListPage section="STORIES" title="Stories" description="Keep a meaningful story or lesson" placeholder="Keep a meaningful story or lesson"/>}
